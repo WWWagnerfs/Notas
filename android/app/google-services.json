@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445342853714",
+    "project_id": "ffblocodenotas",
+    "storage_bucket": "ffblocodenotas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445342853714:android:2ab5ccd42b0e5b8148cd8b",
+        "android_client_info": {
+          "package_name": "com.wagmerfs.flutter_bloco_de_notas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_07BMmn-aDdHBl53IOMe7owYTT717bJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
